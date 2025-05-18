@@ -1,0 +1,17 @@
+Total Flux of Tree: 364897.2153162956
+Leaf ID: 0, Leaf flux: 4620.303139209747
+Branch ID: 2, Branch flux: 16102.991346359253
+Leaf ID: 3, Leaf flux: 1311.8399996757507
+Branch ID: 4, Branch flux: 67808.04017877579
+Branch ID: 6, Branch flux: 30526.091598510742
+Leaf ID: 12, Leaf flux: 2889.7020626068115
+Branch ID: 7, Branch flux: 37398.68938827515
+Leaf ID: 13, Leaf flux: 11050.200336456299
+Branch ID: 8, Branch flux: 64437.86595916748
+Leaf ID: 11, Leaf flux: 7283.113265991211
+Leaf ID: 9, Leaf flux: 9916.917671203613
+Leaf ID: 10, Leaf flux: 111366.60389328003
+Total Branch flux: 216273.6784710884
+Total Leaf flux: 148438.68036842346
+Total flux of Branches and Leaves: 364712.3588395119
+Root Flux: 184.85647678375244
